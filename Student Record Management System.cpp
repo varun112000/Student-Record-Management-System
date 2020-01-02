@@ -13,6 +13,7 @@ class Node{
 	Node *next;
 };
 class operations{
+	
 	private:
 		Node * list1_head;
 		Node * list2_head;
