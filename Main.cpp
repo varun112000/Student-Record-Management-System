@@ -2,11 +2,7 @@
 #include<cstdlib>
 #include<cstring>
 using namespace std;
-class Student{
-	public:
-	int roll_no;
-	char name[20] ;
-};
+
 class Node{
 	public:
 	Student data;
